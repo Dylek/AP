@@ -1,0 +1,17 @@
+\select@language {polish}
+\contentsline {section}{\numberline {1}Informacje wst\IeC {\k e}pne}{2}
+\contentsline {section}{\numberline {2}Rejestracja firmy}{3}
+\contentsline {subsection}{\numberline {2.1}jakie druki nale\IeC {\.z}y wype\IeC {\l }ni\IeC {\'c} w poszczeg\IeC {\'o}lnych instytucjach?}{4}
+\contentsline {subsection}{\numberline {2.2}jakie dokumenty nale\IeC {\.z}y posiada\IeC {\'c}?}{5}
+\contentsline {subsection}{\numberline {2.3}wype\IeC {\l }ni\IeC {\'c} konieczne formularze i druki(wzory mo\IeC {\.z}na \IeC {\'s}ci\IeC {\k a}gn\IeC {\k a}\IeC {\'c} z internetu lub uda\IeC {\'c} si\IeC {\k e} do urz\IeC {\k e}du)}{5}
+\contentsline {section}{\numberline {3}Formy opodatkowania przedsi\IeC {\k e}biorstwa}{5}
+\contentsline {subsection}{\numberline {3.1}jakie s\IeC {\k a} dopuszczalne formy opodatkowania Pa\IeC {\'n}stwa przedsi\IeC {\k e}biorstwa?}{5}
+\contentsline {subsection}{\numberline {3.2}jak\IeC {\k a} form\IeC {\k e} opodatkowania Pa\IeC {\'n}stwo wybrali(kr\IeC {\'o}tka charakterystyka) i dlaczego ?}{5}
+\contentsline {section}{\numberline {4}Zatrudnianie pracownik\IeC {\'o}w}{5}
+\contentsline {subsection}{\numberline {4.1}procedura zatrudniania pracownika (wymagane dokumenty i czynno\IeC {\'s}ci)}{6}
+\contentsline {subsection}{\numberline {4.2}zawarcie umowy o dzie\IeC {\l }o (KUP 50\%), umowy zlecenie, umowy o prac\IeC {\k e}}{7}
+\contentsline {section}{\numberline {5}Wnioski}{7}
+\contentsline {subsection}{\numberline {5.1}jakie s\IeC {\k a} zalety i wady formy prawnej Pa\IeC {\'n}stwa przedsi\IeC {\k e}biorstwa?}{7}
+\contentsline {subsection}{\numberline {5.2}jakie trudno\IeC {\'s}ci (udogodnienia) napotkali Pa\IeC {\'n}stwo w trakcie rejestracji firmy?}{8}
+\contentsline {subsection}{\numberline {5.3}co Pa\IeC {\'n}stwa zdaniem przyspieszy\IeC {\l }oby proces rejestracji firmy?}{8}
+\contentsline {subsection}{\numberline {5.4}inne nasuwaj\IeC {\k a}ce si\IeC {\k e} wnioski}{8}
