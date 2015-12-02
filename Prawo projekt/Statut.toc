@@ -1,7 +1,8 @@
 \select@language {polish}
-\contentsline {section}{\numberline {1}Akt za\IeC {\l }o\IeC {\.z}ycielski i statut sp\IeC {\'o}\IeC {\l }ki}{1}
-\contentsline {subsection}{\numberline {1.1}kapita\IeC {\l }}{1}
-\contentsline {subsection}{\numberline {1.2}Akcje}{1}
-\contentsline {subsection}{\numberline {1.3}za\IeC {\l }o\IeC {\.z}yciele}{1}
-\contentsline {subsection}{\numberline {1.4}Organy sp\IeC {\'o}\IeC {\l }ki}{2}
-\contentsline {section}{\numberline {2}Postanowienia}{2}
+\contentsline {section}{\numberline {1}POSTANOWIENIA OG\IeC {\'O}LNE}{2}
+\contentsline {section}{\numberline {2}W\IeC {\L }ADZE SP\IeC {\'O}\IeC {\L }KI}{3}
+\contentsline {subsection}{\numberline {2.1}ZARZ\IeC {\k A}D}{3}
+\contentsline {subsection}{\numberline {2.2}RADA NADZORCZA}{5}
+\contentsline {subsection}{\numberline {2.3} WALNE ZGROMADZENIE}{6}
+\contentsline {section}{\numberline {3}RACHUNKOWO\IeC {\'S}\IeC {\'C} SP\IeC {\'O}\IeC {\L }KI}{8}
+\contentsline {section}{\numberline {4}PRZEPISY KO\IeC {\'N}COWE}{8}
